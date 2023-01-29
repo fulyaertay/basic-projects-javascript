@@ -1,4 +1,4 @@
-# co6604de983616f0c7f916f10
+# Solo Project: Basketball Scoreboard
 
 Quick start:
 
