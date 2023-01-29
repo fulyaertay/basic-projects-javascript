@@ -28,19 +28,19 @@
 
     ![image](./solo-project-basketball-scoreboard/solo-project.png)
  
-## What I Learned?
-```bash
-- Mastered JavaScript.
-- HTML/CSS
-- Functions
-- DOM Manipulation
-- 
-```
+  ## What I Learned?
+  ```bash
+  - Mastered JavaScript.
+  - HTML/CSS
+  - Functions
+  - DOM Manipulation
+  - 
+  ```
 
 
-## Stretch Goals: COMPLETED
+  ## Stretch Goals: COMPLETED
 
-- Add a new game button: Button added as a new div
-- Highlight the leader: The text color changes when home or guest score is increased
-- Add a new content: Added time content
-- Change the design: Blocks and text weight, letter spacing adjusted
+  - Add a new game button: Button added as a new div
+  - Highlight the leader: The text color changes when home or guest score is increased
+  - Add a new content: Added time content
+  - Change the design: Blocks and text weight, letter spacing adjusted
