@@ -28,7 +28,7 @@
 
     ![image](./solo-project-basketball-scoreboard/solo-project.png)
     
-  ###[Check it out:](https://basketball-scoreboard-challenge.netlify.app/)
+  ### Check it out: [Link](https://basketball-scoreboard-challenge.netlify.app/)
  
   ### What I Learned?
   ```bash
