@@ -40,7 +40,7 @@
 
   ### Stretch Goals: COMPLETED
 
-  - Add a new game button: Button added as a new div
+  - Add a new game button: Button added as a new div, when button is clicked all scores adjusted as zero
   - Highlight the leader: The text color changes when home or guest score is increased
   - Add a new content: Added time content
   - Change the design: Button styles, text weight, letter spacing adjusted
