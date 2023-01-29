@@ -34,7 +34,7 @@
   - HTML/CSS
   - Functions
   - DOM Manipulation
-  - 
+  
   ```
 
 
