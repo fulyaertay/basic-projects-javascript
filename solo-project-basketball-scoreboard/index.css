@@ -9,7 +9,23 @@ body {
     color:white;
     min-height:200px; 
 }
-
+.new-game{
+    display: flex;
+    background-color: #19244D;
+    color:white;
+    min-height:50px; 
+    margin-top: 5px;
+    justify-content: center;
+}
+.newButton{
+    width: 1000px;
+    height: 40px;
+    margin: 10px;
+    background-color: #19244D;
+    color:white;
+    border-color: white;
+    border-radius: 5px;
+}
 #home-counter{
     width:110px;
     height:80px;
