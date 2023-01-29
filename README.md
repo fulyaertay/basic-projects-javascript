@@ -25,7 +25,7 @@
     
   ### 3-Solo Project:Basketball Scoreboard
   ### Visulation of the App 
-  ### Check it out: [Link](https://basketball-scoreboard-challenge.netlify.app/)
+  ### Check it out: [The Link](https://basketball-scoreboard-challenge.netlify.app/)
 
     ![image](./solo-project-basketball-scoreboard/solo-project.png)
     
