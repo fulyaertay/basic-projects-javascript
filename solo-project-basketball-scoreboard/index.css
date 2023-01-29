@@ -70,7 +70,8 @@ body {
     background-color: black;
     margin-bottom: 20px;
     color:#F94F6D;
-      font-size: 50px;
+    font-size: 50px;
+    font-weight: bolder;
 }
 
 #home-1, #home-2, #home-3{
@@ -92,6 +93,7 @@ body {
     margin-bottom: 20px;
     color:#F94F6D;
     font-size: 50px;
+    font-weight: bolder;
 }
 
 #guest-1, #guest-2, #guest-3{
@@ -103,3 +105,7 @@ body {
     
 }
 
+h3{
+    font-weight: 500px;
+    letter-spacing: 5px;
+}
