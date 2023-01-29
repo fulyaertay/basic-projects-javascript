@@ -96,6 +96,8 @@ function newGame(){
     increaseGuest=0;
     homeCounter.textContent=increaseHome;
     guestCounter.textContent=increaseGuest;
+    guestCounter.style.color="#F94F6D";
+    homeCounter.style.color="#F94F6D";
 
 
 }
