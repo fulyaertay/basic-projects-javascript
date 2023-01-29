@@ -43,6 +43,21 @@ body {
 
 }
 #time-counter2{
+    width:20px;
+    height:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    margin-bottom: 20px;
+    color:whigte;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-right: 2px;
+
+
+}
+#time-counter3{
     width:60px;
     height:50px;
     display: flex;
