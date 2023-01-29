@@ -44,4 +44,4 @@
   - Highlight the leader: The text color changes when home or guest score is increased
   - Add a new content: Added time content
   - Change the design: Button styles, text weight, letter spacing adjusted
-  - Make all six buttons work: Home or guest buttons have 3 three buttons which increase score as 1,2 or 3
+  - Make all six buttons work: Home or guest have 3 three buttons which increase score as 1,2 or 3
