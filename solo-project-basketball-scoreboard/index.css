@@ -26,6 +26,41 @@ body {
     border-color: white;
     border-radius: 5px;
 }
+#time-counter1{
+    width:60px;
+    height:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    margin-bottom: 20px;
+    color:whigte;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-right: 2px;
+
+
+}
+#time-counter2{
+    width:60px;
+    height:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    margin-bottom: 20px;
+    color:whigte;
+    font-size: 40px;
+    margin-top: 20px;
+    flex-direction: column;
+
+
+}
+.time-content{
+    display: flex;
+    justify-content: space-around;;
+}
+
 #home-counter{
     width:110px;
     height:80px;
