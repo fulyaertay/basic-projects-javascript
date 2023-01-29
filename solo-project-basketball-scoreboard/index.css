@@ -25,6 +25,7 @@ body {
     color:white;
     border-color: white;
     border-radius: 5px;
+    letter-spacing: 5px;
 }
 #time-counter1{
     width:60px;
