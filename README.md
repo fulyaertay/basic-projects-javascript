@@ -43,4 +43,4 @@
   - Add a new game button: Button added as a new div
   - Highlight the leader: The text color changes when home or guest score is increased
   - Add a new content: Added time content
-  - Change the design: Blocks and text weight, letter spacing adjusted
+  - Change the design: Button styles, text weight, letter spacing adjusted
