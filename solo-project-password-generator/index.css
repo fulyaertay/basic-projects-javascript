@@ -1,51 +1,50 @@
 body {
-    margin: 0;
+  margin: 0;
 }
 
-.container{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    background-color: #1e2938;
-    height: 100vh;
-    width: 100%;
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #1e2938;
+  height: 100vh;
+  width: 100%;
 }
-.generateContent{
-    display: flex;
-    flex-direction: column;
-    margin-top: 100px;
+.generateContent {
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
 }
-.generate{
-    color: white;
-    font-size:30px;
-    font-weight: bold;
-}
-
-.random-password{
-    color: #4cdf86;
-    display: block;
-    font-size:30px;
-     font-weight: bold;
-}
-h5{
-    color:#8b9298;
-    font-weight: bold;
+.generate {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
 }
 
-.generateBtn{
-    background-color: #10B882;
-    font-size: 14px;
-    padding: 8px;
-    color:white;
-    border:none;
-    border-radius: 2px;
-    width: 180px;
-
+.random-password {
+  color: #4cdf86;
+  display: block;
+  font-size: 30px;
+  font-weight: bold;
+}
+h5 {
+  color: #8b9298;
+  font-weight: bold;
 }
 
-.passwords{
-    display: flex;
-    color: wheat;
-    margin-top:10px;
+.generateBtn {
+  background-color: #10b882;
+  font-size: 14px;
+  padding: 8px;
+  color: white;
+  border: none;
+  border-radius: 2px;
+  width: 180px;
+}
+
+.passwords {
+  display: flex;
+  color: wheat;
+  margin-top: 10px;
 }
