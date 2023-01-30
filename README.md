@@ -8,6 +8,7 @@
   - [3-Black Jack App](#black-jack)
   - [4-Emoji Fighter App](#figter)
   - [5-Solo Project:Basketball Scoreboard](#solo-project-basketball-scoreboard)
+  - [6-Solo Project:Password Generator](#solo-project-password-generator)
   
   ## Overview
   ### Description
@@ -61,3 +62,29 @@
   - Add a new content: Added time content
   - Change the design: Button styles, text weight, letter spacing adjusted
   - Make all six buttons work: Home or guest have 3 three buttons which increase score as 1,2 or 3
+  
+  
+  ### 6-Solo Project: Password Generator App
+  ### Visulation of the App 
+  ### Check it out: [The Link](https://password-generator-solo-app.netlify.app/)
+
+    ![image](./6-solo-project-password-generator/generate-passwords.png)
+    
+
+ 
+  ### What I Learned?
+  ```bash
+  - Mastered JavaScript.
+  - HTML/CSS
+  - For Loops
+  - Arrays
+  - Functions
+  - Math Module
+  
+  ```
+
+
+  ### Stretch Goals: COMPLETED
+
+  - Generate two random passwords then the user clicks the button
+  - Each password should be 15 characters long
