@@ -91,3 +91,27 @@ const characters = [
   "?",
   "/",
 ];
+
+
+let pswContent1=document.querySelector(".passwordBtn1");
+let pswContent2=document.querySelector(".passwordBtn2");
+let generatePsw1=""
+let result1=""
+function generatePsw(){
+    pswContent1.textContent=""
+    pswContent2.textContent=""
+    result1=""
+    result2=""
+    for (let character=0;character<15;character++){
+        generatePsw1=Math.floor(Math.random()*characters.length)
+        result1+=characters[generatePsw1];
+
+        generatePsw2=Math.floor(Math.random()*characters.length)
+        result2+=characters[generatePsw2];
+    }
+    pswContent1.textContent= result1;
+    pswContent2.textContent= result2;
+   
+
+
+}
