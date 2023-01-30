@@ -96,7 +96,9 @@ const characters = [
 let pswContent1=document.querySelector(".passwordBtn1");
 let pswContent2=document.querySelector(".passwordBtn2");
 let generatePsw1=""
+let generatePsw2=""
 let result1=""
+let result2=""
 function generatePsw(){
     pswContent1.textContent=""
     pswContent2.textContent=""
