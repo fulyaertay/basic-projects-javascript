@@ -86,5 +86,5 @@
 
   ### Stretch Goals: COMPLETED
 
-  - Generate two random passwords then the user clicks the button
+  - Generate two random passwords when the user clicks the button
   - Each password should be 15 characters long
