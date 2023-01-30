@@ -30,7 +30,7 @@ fightButton.addEventListener("click", function () {
     getEmj2 = fighters[second];
   }
 
-  stageEl.textContent = getEmj1 + "vs" + getEmj2;
+  stageEl.textContent = getEmj1 + " vs " + getEmj2;
 
   // Challenge:
   // When the user clicks on the "Pick Fighters" button, pick two random
