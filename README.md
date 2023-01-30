@@ -5,7 +5,8 @@
 - [Projects](#projects)
   - [1-Passenger Counter App](#passenger-counter)
   - [2-Calculator App](#calculator)
-  - [3-Solo Project:Basketball Scoreboard](#solo-project-basketball-scoreboard)
+  - [3-Black Jack App](#black-jack)
+  - [4-Solo Project:Basketball Scoreboard](#solo-project-basketball-scoreboard)
   
   ## Overview
   ### Description
@@ -23,7 +24,13 @@
 
     ![image](./2-calculator-challenge/calculator.png)
     
-  ### 3-Solo Project:Basketball Scoreboard
+    
+  ### 3-Black Jack App
+  ### Visulation of the App 
+
+    ![image](./3-black-jack-app/black-jack.png)
+    
+  ### 4-Solo Project:Basketball Scoreboard
   ### Visulation of the App 
   ### Check it out: [The Link](https://basketball-scoreboard-challenge.netlify.app/)
 
