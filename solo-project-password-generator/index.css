@@ -16,13 +16,13 @@ body {
   flex-direction: column;
   margin-top: 100px;
 }
-.generate {
+.generateText {
   color: white;
   font-size: 30px;
   font-weight: bold;
 }
 
-.random-password {
+.randomPsasswordText {
   color: #4cdf86;
   display: block;
   font-size: 30px;
