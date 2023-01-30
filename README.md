@@ -34,7 +34,7 @@
   ### Visulation of the App 
   ### Check it out: [The Link](https://basketball-scoreboard-challenge.netlify.app/)
 
-    ![image](./solo-project-basketball-scoreboard/solo-project.png)
+    ![image](./4-solo-project-basketball-scoreboard/solo-project.png)
     
 
  
