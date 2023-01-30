@@ -79,7 +79,7 @@
   - For Loops
   - Arrays
   - Functions
-  - Math Module
+  - Math.random() Module
   
   ```
 
