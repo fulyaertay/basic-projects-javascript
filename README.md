@@ -6,7 +6,8 @@
   - [1-Passenger Counter App](#passenger-counter)
   - [2-Calculator App](#calculator)
   - [3-Black Jack App](#black-jack)
-  - [4-Solo Project:Basketball Scoreboard](#solo-project-basketball-scoreboard)
+  - [4-Emoji Fighter App](#figter)
+  - [5-Solo Project:Basketball Scoreboard](#solo-project-basketball-scoreboard)
   
   ## Overview
   ### Description
@@ -30,11 +31,16 @@
 
     ![image](./3-black-jack-app/black-jack.png)
     
-  ### 4-Solo Project:Basketball Scoreboard
+  ### 4-Emoji Fighter App
+  ### Visulation of the App 
+
+    ![image](./4-emoji-fighter/fighter.png)
+    
+  ### 5-Solo Project:Basketball Scoreboard
   ### Visulation of the App 
   ### Check it out: [The Link](https://basketball-scoreboard-challenge.netlify.app/)
 
-    ![image](./4-solo-project-basketball-scoreboard/solo-project.png)
+    ![image](./5-solo-project-basketball-scoreboard/solo-project.png)
     
 
  
