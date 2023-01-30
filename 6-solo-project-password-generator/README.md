@@ -1,4 +1,4 @@
-# co48a4bcb95632d0f21b84cf8
+# password-generator
 
 Quick start:
 
