@@ -47,5 +47,23 @@ h5 {
 .passwords {
   display: flex;
   color: wheat;
-  margin-top: 10px;
+  margin-top: 50px;
+  border:2px;
+}
+
+.passwordBtn1{
+    background-color: #283549;
+    border: none;
+    color:#10b882;
+    width:180px;
+    margin-right: 20px;
+    padding: 10px;
+}
+.passwordBtn2{
+    background-color: #283549;
+    border: none;
+    color:#10b882;
+    width:180px;
+    margin-right: 20px;
+    padding: 10px;
 }
