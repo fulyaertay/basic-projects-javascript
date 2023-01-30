@@ -1,4 +1,4 @@
-# c2GGK8SZ
+# black-jack-app
 
 Quick start:
 
