@@ -9,10 +9,11 @@
   - [4-Emoji Fighter App](#figter)
   - [5-Solo Project:Basketball Scoreboard](#solo-project-basketball-scoreboard)
   - [6-Solo Project:Password Generator](#solo-project-password-generator)
+  - [7-Chrome Extension App](#chrome-extension)
   
   ## Overview
   ### Description
-  I completed 6 projects of Module 3 of the frontend developer career path on [Scrimba](https://scrimba.com/learn/frontend/solo-project-basketball-scoreboard-cz9adVfP). I mastered HTML/CSS and JavaScript in these projects. 
+  I completed 7 projects of Module 3 of the frontend developer career path on [Scrimba](https://scrimba.com/learn/frontend/). I mastered HTML/CSS and JavaScript in these projects. 
   You can see the visual representations of the each app below.
   
   ## Projects
@@ -88,3 +89,36 @@
 
   - Generate two random passwords when the user clicks the button
   - Each password should be 15 characters long
+
+ 
+  ### 7-Solo Project: Chrome Extension App
+  ### Visulation of the App 
+
+    ![image](./7-javascript-chrome-extension/chrome-extension.png)
+    
+
+ 
+  ### What I Learned?
+  ```bash
+  - const,let
+  - addEventListener(click and dblclick events)
+  - innerHTML
+  - function parameters,arguments
+  - template strings
+  - localStorage(setItem,getItem,clear)
+  - Chrome API to save tabs
+  - JSON object
+  - manifest.json file
+  - onjects in array
+  
+  ```
+
+  ### Stretch Goals: COMPLETED
+
+  - When user enter a link in textbox and clicks "SAVE INPUT" button, link is saved in storage
+  - When user clicks "SAVE TAB" button, current tab's url is saved
+  - When user clicks "DELETE ALL" button, all saved links are deleted on localStorage 
+
+
+
+
