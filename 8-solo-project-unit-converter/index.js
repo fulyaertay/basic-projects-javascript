@@ -14,23 +14,17 @@ let kipo=document.getElementById("kipo")
 let getInputVal=document.getElementById("inputText")
 
 
-let convertMet=0
-let covertFeet=0
-let convertGallons=0
-let convertLiters=0
-let convertKg=0
-let convertPounds=0
-
 convertBtn.addEventListener("click",function(){
     
     if (getInputVal.value>0){
         let convertedVal=Number(getInputVal.value)
         
-
         metfet.textContent=`
         ${convertedVal} meters = ${(convertedVal*3.281).toFixed(3)} feet | 
         ${convertedVal} feet = ${(convertedVal*0.304).toFixed(3)} meters `
     }
+
+    
 
     else{
         alert("You must enter a number to convert!")
