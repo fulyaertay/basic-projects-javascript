@@ -140,7 +140,7 @@
 
   ### Stretch Goals: COMPLETED
 
-  - When user enter a number and press "CONVERT" button, this value is converted meters, feets,liters,gallons, kilos and pounds
+  - When user enter a number and press "CONVERT" button, generated all conversions(Meter/Feet, Liters/Gallons, Kilos/Pounds)
   - Rebuild the desing spec
   - Round numbers down to three decimal places
 
