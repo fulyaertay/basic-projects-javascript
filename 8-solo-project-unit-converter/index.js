@@ -22,6 +22,13 @@ convertBtn.addEventListener("click",function(){
         metfet.textContent=`
         ${convertedVal} meters = ${(convertedVal*3.281).toFixed(3)} feet | 
         ${convertedVal} feet = ${(convertedVal*0.304).toFixed(3)} meters `
+    
+        liga.textContent=`
+        ${convertedVal} liters = ${(convertedVal*0.264).toFixed(3)} gallons | 
+        ${convertedVal} gallons = ${(convertedVal*3.785).toFixed(3)} liters `
+    
+
+    
     }
 
     
