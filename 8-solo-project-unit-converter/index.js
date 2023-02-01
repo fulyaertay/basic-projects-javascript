@@ -19,14 +19,17 @@ convertBtn.addEventListener("click",function(){
     if (getInputVal.value>0){
         let convertedVal=Number(getInputVal.value)
         
+        //convert meters vs feet
         metfet.textContent=`
         ${convertedVal} meters = ${(convertedVal*3.281).toFixed(3)} feet | 
         ${convertedVal} feet = ${(convertedVal*0.304).toFixed(3)} meters `
     
+        //convert liters vs gallons
         liga.textContent=`
         ${convertedVal} liters = ${(convertedVal*0.264).toFixed(3)} gallons | 
         ${convertedVal} gallons = ${(convertedVal*3.785).toFixed(3)} liters `
     
+        //convert kilos vs pounds
         kipo.textContent=`
         ${convertedVal} kilos = ${(convertedVal*2.204).toFixed(3)} pounds | 
         ${convertedVal} pounds = ${(convertedVal*0.480 ).toFixed(3)} kilos `
