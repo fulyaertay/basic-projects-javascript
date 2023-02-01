@@ -51,6 +51,11 @@ h1 {
   color: #5a5757;
   background-color: white;
 }
+#convertButton:hover{
+    cursor: pointer;
+    background-color: #5133c7;
+    color: wheat;
+}
 .measurementContent{
     width: 100%;
     display: flex;
