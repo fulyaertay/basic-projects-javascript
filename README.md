@@ -10,6 +10,7 @@
   - [5-Solo Project:Basketball Scoreboard](#solo-project-basketball-scoreboard)
   - [6-Solo Project:Password Generator](#solo-project-password-generator)
   - [7-Chrome Extension App](#chrome-extension)
+  - [8-Unit Converter App](#unit-converter)
   
   ## Overview
   ### Description
@@ -109,7 +110,7 @@
   - Chrome API to save tabs
   - JSON object
   - manifest.json file
-  - onjects in array
+  - objects in array
   
   ```
 
@@ -118,6 +119,31 @@
   - When user enter a link in textbox and clicks "SAVE INPUT" button, link is saved in storage
   - When user clicks "SAVE TAB" button, current tab's url is saved
   - When user clicks "DELETE ALL" button, all saved links are deleted on localStorage 
+  
+  
+  
+  ### 8-Solo Project: Unit Converter
+  ### Visulation of the App 
+
+    ![image](./8-solo-project-unit-converter/unit-converter.png)
+    
+
+ 
+  ### What I Learned?
+  ```bash
+  - const,let
+  - addEventListener event like click listener
+  - innerHTML
+  - functions
+  - template strings
+  ```
+
+  ### Stretch Goals: COMPLETED
+
+  - When user enter a number and press "CONVERT" button, this value is converted meters, feets,liters,gallons, kilos and pounds
+  - Rebuild the desing spec
+  - Round numbers down to three decimal places
+
 
 
 
