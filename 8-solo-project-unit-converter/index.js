@@ -24,9 +24,12 @@ let convertPounds=0
 convertBtn.addEventListener("click",function(){
     
     if (getInputVal.value>0){
+        let convertedVal=Number(getInputVal.value)
+        
 
         metfet.textContent=`
-        ${Number(getInputVal.value)}=
+        ${convertedVal}= meters=${convertedVal*3.281} feet | 
+        ${convertedVal}= feet=${convertedVal*3.281} meters 
         
         Number(getInputVal.value)`
     }
