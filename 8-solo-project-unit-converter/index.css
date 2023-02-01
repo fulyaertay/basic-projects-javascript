@@ -7,5 +7,43 @@ body {
 .container {
     display:flex;
     flex-direction: column;
-    margin: 0px auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.convertSection{
+    background-color: #6944FF;
+    height: 300px;
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.inputSec{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inputText{
+    width: 90px;
+    height: 80px;
+    background-color: #6944FF;
+    border-radius: 5px;
+    border:1px solid wheat;
+    margin-bottom: 20px;
+    color:aliceblue;
+}
+h1{
+    color: wheat;;
+}
+
+.convertButton{
+    width:100px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    color: #5a5757;;
 }
