@@ -34,7 +34,7 @@ body {
   border-radius: 5px;
   border: 1px solid wheat;
   margin-bottom: 20px;
-  color: aliceblue;
+  color: white;
   text-align: center;
   font-size: 50px;
 }
@@ -48,6 +48,7 @@ h1 {
   border-radius: 5px;
   border: none;
   color: #5a5757;
+  background-color: white;
 }
 .measurements{
     width: 100%;
