@@ -34,11 +34,7 @@ convertBtn.addEventListener("click",function(){
         ${convertedVal} kilos = ${(convertedVal*2.204).toFixed(3)} pounds | 
         ${convertedVal} pounds = ${(convertedVal*0.480 ).toFixed(3)} kilos `
     
-    }
-
-    
-
-    else{
+    }else{
         alert("You must enter a number to convert!")
     }
    
