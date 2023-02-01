@@ -94,7 +94,7 @@
   ### 7-Solo Project: Chrome Extension App
   ### Visulation of the App 
 
-    ![image](./7-javascript-chrome-extension/chrome-extension.png)
+    ![image](./7-solo-project-chrome-extension/chrome-extension.png)
     
 
  
