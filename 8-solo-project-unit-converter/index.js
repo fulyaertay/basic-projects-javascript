@@ -27,7 +27,9 @@ convertBtn.addEventListener("click",function(){
         ${convertedVal} liters = ${(convertedVal*0.264).toFixed(3)} gallons | 
         ${convertedVal} gallons = ${(convertedVal*3.785).toFixed(3)} liters `
     
-
+        kipo.textContent=`
+        ${convertedVal} kilos = ${(convertedVal*2.204).toFixed(3)} pounds | 
+        ${convertedVal} pounds = ${(convertedVal*0.480 ).toFixed(3)} kilos `
     
     }
 
