@@ -136,6 +136,7 @@
   - innerHTML
   - functions
   - template strings
+  - toFixed() attribute
   ```
 
   ### Stretch Goals: COMPLETED
