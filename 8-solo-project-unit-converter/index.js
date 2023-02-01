@@ -7,3 +7,12 @@ Measure Units
 
 
 let convertBtn=document.getElementById("convertButton")
+let metfet=document.getElementById("metfet")
+let liga=document.getElementById("liga")
+let kipo=document.getElementById("kipo")
+
+let getInputVal=document.getElementById("inputText")
+convertBtn.addEventListener("click",function(){
+
+
+})

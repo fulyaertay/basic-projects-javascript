@@ -27,7 +27,7 @@ body {
   align-items: center;
 }
 
-.inputText {
+#inputText {
   width: 90px;
   height: 80px;
   background-color: #6944ff;
