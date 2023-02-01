@@ -41,6 +41,7 @@ body {
 h1 {
   color: wheat;
   font-weight: bolder;
+  letter-spacing: 5px;
 }
 
 #convertButton {
@@ -50,6 +51,7 @@ h1 {
   border: none;
   color: #5a5757;
   background-color: white;
+  letter-spacing: 3px;
 }
 #convertButton:hover{
     cursor: pointer;
@@ -73,9 +75,11 @@ h1 {
 p{
     text-align: center;
     color:#6e4cf5;
+    letter-spacing: 2px;
 }
 
 h3{
     color:#6e4cf5;
     text-align: center;
+    letter-spacing: 2px;
 }
