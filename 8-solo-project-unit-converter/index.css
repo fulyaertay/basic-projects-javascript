@@ -43,7 +43,7 @@ h1 {
   font-weight: bolder;
 }
 
-.convertButton {
+#convertButton {
   width: 100px;
   height: 40px;
   border-radius: 5px;
