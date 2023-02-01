@@ -57,7 +57,7 @@
   ```
 
 
-  ### Stretch Goals: COMPLETED
+  ### Stretch Goals: COMPLETED ✅
 
   - Add a new game button: Button added as a new div, when button is clicked all scores adjusted as zero
   - Highlight the leader: The text color changes when home or guest score is increased
@@ -86,10 +86,10 @@
   ```
 
 
-  ### Stretch Goals: COMPLETED
+  ### Stretch Goals: COMPLETED ✅
 
-  - Generate two random passwords when the user clicks the button
-  - Each password should be 15 characters long
+  - Generate two random passwords when the user clicks the button ✅
+  - Each password should be 15 characters long ✅
 
  
   ### 7-Solo Project: Chrome Extension App
@@ -114,11 +114,11 @@
   
   ```
 
-  ### Stretch Goals: COMPLETED
+  ### Stretch Goals: COMPLETED ✅
 
-  - When user enter a link in textbox and clicks "SAVE INPUT" button, link is saved in storage
-  - When user clicks "SAVE TAB" button, current tab's url is saved
-  - When user clicks "DELETE ALL" button, all saved links are deleted on localStorage 
+  - When user enter a link in textbox and clicks "SAVE INPUT" button, link is saved in storage ✅
+  - When user clicks "SAVE TAB" button, current tab's url is saved ✅
+  - When user clicks "DELETE ALL" button, all saved links are deleted on localStorage ✅
   
   
   
@@ -140,11 +140,11 @@
   - toFixed() attribute
   ```
 
-  ### Stretch Goals: COMPLETED
+  ### Stretch Goals: COMPLETED ✅
 
-  - When user enter a number and press "CONVERT" button, generated all conversions(Meter/Feet, Liters/Gallons, Kilos/Pounds)
-  - Rebuild the desing spec
-  - Round numbers down to three decimal places
+  - When user enter a number and press "CONVERT" button, generated all conversions(Meter/Feet, Liters/Gallons, Kilos/Pounds) ✅
+  - Rebuild the desing spec ✅
+  - Round numbers down to three decimal places ✅
 
 
 
