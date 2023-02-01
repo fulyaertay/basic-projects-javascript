@@ -28,10 +28,8 @@ convertBtn.addEventListener("click",function(){
         
 
         metfet.textContent=`
-        ${convertedVal}= meters=${convertedVal*3.281} feet | 
-        ${convertedVal}= feet=${convertedVal*3.281} meters 
-        
-        Number(getInputVal.value)`
+        ${convertedVal} meters=${(convertedVal*3.281).toFixed(3)} feet | 
+        ${convertedVal} feet=${(convertedVal*0.304).toFixed(3)} meters `
     }
 
     else{
