@@ -12,7 +12,28 @@ let liga=document.getElementById("liga")
 let kipo=document.getElementById("kipo")
 
 let getInputVal=document.getElementById("inputText")
-convertBtn.addEventListener("click",function(){
 
+
+let convertMet=0
+let covertFeet=0
+let convertGallons=0
+let convertLiters=0
+let convertKg=0
+let convertPounds=0
+
+convertBtn.addEventListener("click",function(){
+    
+    if (getInputVal.value>0){
+
+        metfet.textContent=`
+        ${Number(getInputVal.value)}=
+        
+        Number(getInputVal.value)`
+    }
+
+    else{
+        alert("You must enter a number to convert!")
+    }
+   
 
 })
