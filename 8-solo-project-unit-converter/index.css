@@ -1,49 +1,51 @@
 body {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .container {
-    display:flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
-.convertSection{
-    background-color: #6944FF;
-    height: 300px;
-    width:100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+.convertSection {
+  background-color: #6944ff;
+  height: 300px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
-.inputSec{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.inputSec {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-.inputText{
-    width: 90px;
-    height: 80px;
-    background-color: #6944FF;
-    border-radius: 5px;
-    border:1px solid wheat;
-    margin-bottom: 20px;
-    color:aliceblue;
+.inputText {
+  width: 90px;
+  height: 80px;
+  background-color: #6944ff;
+  border-radius: 5px;
+  border: 1px solid wheat;
+  margin-bottom: 20px;
+  color: aliceblue;
+  text-align: center;
+  font-size: 50px;
 }
-h1{
-    color: wheat;;
+h1 {
+  color: wheat;
 }
 
-.convertButton{
-    width:100px;
-    height: 40px;
-    border-radius: 5px;
-    border: none;
-    color: #5a5757;;
+.convertButton {
+  width: 100px;
+  height: 40px;
+  border-radius: 5px;
+  border: none;
+  color: #5a5757;
 }
