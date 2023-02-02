@@ -1,9 +1,11 @@
-// Make the unshift button work just as the push button (but with unshifting instead of pushing)
+// Make the pop and shift buttons work as well
 const myEmojis = ["👨‍💻", "⛷", "🍲"]
 const emojiContainer = document.getElementById("emoji-container")
 const emojiInput = document.getElementById("emoji-input")
 const pushBtn = document.getElementById("push-btn")
 const unshiftBtn = document.getElementById("unshift-btn")
+const popBtn = document.getElementById("pop-btn")
+const shiftBtn = document.getElementById("shift-btn")
 
 function renderEmojis() {
     emojiContainer.innerHTML = ""
@@ -31,3 +33,14 @@ unshiftBtn.addEventListener("click", function(){
         renderEmojis()
     }
 })
+
+popBtn.addEventListener("click", function() {
+    myEmojis.pop()
+    renderEmojis()
+})
+
+shiftBtn.addEventListener("click", function() {
+    myEmojis.shift()
+    renderEmojis()
+})
+
