@@ -1,4 +1,4 @@
-# solo-project-my-emojis
+# cof4e40dabbafa67be6cdf122
 
 Quick start:
 
