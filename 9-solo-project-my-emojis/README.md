@@ -1,4 +1,4 @@
-# c2W7qzuR
+# solo-project-my-emojis
 
 Quick start:
 
