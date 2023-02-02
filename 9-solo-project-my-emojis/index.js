@@ -1,10 +1,14 @@
-// Grab the emojiContainer div and store it in a variable. Log it to the console
+// Render the emojis as <span> tags in the emojisContainer <div>
+
+// Hints: Use either createElement(), textContent, and append()
+// or innerHTML and a template string
 
 const myEmojis = ["👨‍💻", "⛷", "🍲"]
 const emojiContainer = document.getElementById("emojiContainer")
 
-console.log(emojiContainer)
-
 for (let i = 0; i < myEmojis.length; i++) {
-    // console.log(myEmojis[i])
+    // write your code here
+    const emoji = document.createElement('span')
+    emoji.textContent = myEmojis[i]
+    emojiContainer.append(emoji)
 }
