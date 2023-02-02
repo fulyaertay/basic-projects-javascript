@@ -1,14 +1,20 @@
-// Push the emoji into the myEmoji's array, and clear the input field
-// However, if the input value is empty, don't do anything
+// Render the updated myEmojis array in the mini-browser.
+
+// One solution: wrap the code for rendering the emojis in a function and make sure it
+// clears away old version of the array before it renders the updated one
 
 const myEmojis = ["👨‍💻", "⛷", "🍲"]
 const emojiContainer = document.getElementById("emoji-container")
 
-for (let i = 0; i < myEmojis.length; i++) {
-    const emoji = document.createElement('span')
-    emoji.textContent = myEmojis[i]
-    emojiContainer.append(emoji)
+function renderEmojis() {
+    for (let i = 0; i < myEmojis.length; i++) {
+        const emoji = document.createElement('span')
+        emoji.textContent = myEmojis[i]
+        emojiContainer.append(emoji)
+    }
 }
+
+renderEmojis()
 
 const pushBtn = document.getElementById("push-btn")
 pushBtn.addEventListener("click", function(){
@@ -16,6 +22,7 @@ pushBtn.addEventListener("click", function(){
     if (emojiInput.value) {
         myEmojis.push(emojiInput.value)
         emojiInput.value = ""
-        console.log(myEmojis)    
+        emojiContainer.innerHTML = ""
+        renderEmojis()
     }
 })
