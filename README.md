@@ -7,10 +7,10 @@
   - [2-Calculator App](#calculator)
   - [3-Black Jack App](#black-jack)
   - [4-Emoji Fighter App](#figter)
-  - [5-Solo Project:Basketball Scoreboard](#solo-project-basketball-scoreboard)
-  - [6-Solo Project:Password Generator](#solo-project-password-generator)
-  - [7-Chrome Extension App](#chrome-extension)
-  - [8-Unit Converter App](#unit-converter)
+  - [5-Solo Project: Basketball Scoreboard](#solo-project-basketball-scoreboard)
+  - [6-Solo Project: Password Generator](#solo-project-password-generator)
+  - [7-Solo Project: Chrome Extension App](#chrome-extension)
+  - [8-Solo Project:  Unit Converter App](#unit-converter)
   
   ## Overview
   ### Description
