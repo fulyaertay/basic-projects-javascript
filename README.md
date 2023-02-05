@@ -15,7 +15,7 @@
   
   ## Overview
   ### Description
-  I completed 7 projects of Module 3 of the frontend developer career path on [Scrimba](https://scrimba.com/learn/frontend/). I mastered HTML/CSS and JavaScript in these projects. 
+  I completed 9 projects of Module 3 of the frontend developer career path on [Scrimba](https://scrimba.com/learn/frontend/). I mastered HTML/CSS and JavaScript in these projects. 
   You can see the visual representations of the each app below.
   
   ## Projects
