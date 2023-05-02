@@ -11,10 +11,11 @@
   - [6-Solo Project: Password Generator](#solo-project-password-generator)
   - [7-Solo Project: Chrome Extension App](#chrome-extension)
   - [8-Solo Project:  Unit Converter App](#unit-converter)
+  - [9-Solo Project:  My Emojis App](#my-emojis)
   
   ## Overview
   ### Description
-  I completed 7 projects of Module 3 of the frontend developer career path on [Scrimba](https://scrimba.com/learn/frontend/). I mastered HTML/CSS and JavaScript in these projects. 
+  I completed 9 projects of Module 3 of the frontend developer career path on [Scrimba](https://scrimba.com/learn/frontend/). I mastered HTML/CSS and JavaScript in these projects. 
   You can see the visual representations of the each app below.
   
   ## Projects
@@ -145,6 +146,34 @@
   - When user enter a number and press "CONVERT" button, generated all conversions(Meter/Feet, Liters/Gallons, Kilos/Pounds) ✅
   - Rebuild the desing spec ✅
   - Round numbers down to three decimal places ✅
+  
+  
+  ### 9-Solo Project: My Emojis
+  ### Visulation of the App 
+  ### Check it out: [Link](https://scrimba-my-emojis-app.netlify.app/)
+
+    ![image](./9-solo-project-my-emojis/my-emojis.png)
+    
+
+  ### What I Learned?
+  ```bash
+  - const,let
+  - addEventListener event like click listener
+  - for loops
+  - innerHTML
+  - functions
+  - createElement,pop(),push(),shift(),unshift()
+  - arrays
+  - DOM manipulation
+  ```
+
+  ### Stretch Goals: COMPLETED ✅
+
+  - Add your personal emojis: "👩‍💻", "🐈", "🥺","💅" added in array ✅
+  - When user texts an emoji and clicks "Add to end", emoji added as last element ✅
+  - When user texts an emoji and clicks "Add to beginning", emoji added as first element ✅
+  - When user texts an emoji and clicks "Remove from end", emoji removed from last index ✅
+  - When user texts an emoji and clicks "Remove from beginnig", emoji removed from first index ✅
 
 
 
