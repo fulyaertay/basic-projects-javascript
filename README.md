@@ -12,6 +12,7 @@
   - [7-Solo Project: Chrome Extension App](#chrome-extension)
   - [8-Solo Project:  Unit Converter App](#unit-converter)
   - [9-Solo Project:  My Emojis App](#my-emojis)
+  - [10-First PWA App:  Mobile Cat App](#10-cat-pwa-app)
   
   ## Overview
   ### Description
