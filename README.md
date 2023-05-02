@@ -176,6 +176,19 @@
   - When user texts an emoji and clicks "Remove from beginnig", emoji removed from first index ✅
 
 
+  ### 10-Cat PWA App
+  ### Visulation of the App 
+  ### Check it out: [The Link](https://cat-pwa-app.netlify.app/)
 
+    ![image](./10-cat-pwa-app/pwa-app.gif)
+    
+  ### What I Learned?
+  ```bash
+  - Firebase: onValue, push(), remove(), getDatabase, ref(), snapshots
+  - Favicon converter
+  - Web Application Manifest
+  - user-select
+  - Object.values(), Object.keys()
+  ```
 
 
